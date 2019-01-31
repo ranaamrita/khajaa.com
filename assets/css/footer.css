@@ -1,0 +1,125 @@
+.py-3
+{
+  background-color:#4c725c99;
+  color: white;
+
+}
+
+
+
+li a:hover
+{
+  background-color: black;
+  color: black;
+}
+
+#btn
+{
+  
+  border-radius: 0px;
+}
+#t1
+{
+
+margin-right: 20px;
+padding: 25px;
+
+color:black;
+margin-bottom: 20px;
+width: 300px;
+}
+#t2
+{
+  margin-right: 20px;
+  padding:25px;
+  
+  color: black;
+  margin-bottom: 20px;
+  width: 400px;
+}
+#t3
+{
+  padding: 25px;
+  
+  color:black;
+  margin-bottom: 20px;
+  width: 250px;
+}
+.nav-pills>li.active
+{
+  background-color: white;
+
+}
+.border
+{
+  border:thin #bfb9b9 solid;
+  margin:20px;
+  padding: 20px;
+}
+.nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover 
+{
+  color: black;
+ background-color: none;
+}
+.row1
+{
+  margin-top: 80px;
+}
+#graphic
+{
+  margin-left: 450px;
+}
+
+
+.alert {
+  padding: 20px;
+  background-color:black;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+a {
+  color:black;
+  text-decoration: none;
+}
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover 
+{
+
+    color: black;
+    background-color:white;
+}
+.footer
+{
+  background-color:#86a77f !important;
+  color:black;
+  margin-top: 50px;
+
+}
+
+
+
+li a:hover {
+
+    background-color:white;
+    color: black;
+  }
+  input[type=text], input[type=password] {
+  width: 14%;
+  padding: 4px;
+  margin: 5px 0 22px 0;
+  
+  
+}
